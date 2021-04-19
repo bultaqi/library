@@ -1,0 +1,16 @@
+C:\Users\newforce\workspace\cohort-four\server-side\library-demo\bin\Debug\net5.0\library-demo.exe
+C:\Users\newforce\workspace\cohort-four\server-side\library-demo\bin\Debug\net5.0\library-demo.deps.json
+C:\Users\newforce\workspace\cohort-four\server-side\library-demo\bin\Debug\net5.0\library-demo.runtimeconfig.json
+C:\Users\newforce\workspace\cohort-four\server-side\library-demo\bin\Debug\net5.0\library-demo.runtimeconfig.dev.json
+C:\Users\newforce\workspace\cohort-four\server-side\library-demo\bin\Debug\net5.0\library-demo.dll
+C:\Users\newforce\workspace\cohort-four\server-side\library-demo\bin\Debug\net5.0\ref\library-demo.dll
+C:\Users\newforce\workspace\cohort-four\server-side\library-demo\bin\Debug\net5.0\library-demo.pdb
+C:\Users\newforce\workspace\cohort-four\server-side\library-demo\obj\Debug\net5.0\library-demo.csprojAssemblyReference.cache
+C:\Users\newforce\workspace\cohort-four\server-side\library-demo\obj\Debug\net5.0\library-demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\newforce\workspace\cohort-four\server-side\library-demo\obj\Debug\net5.0\library-demo.AssemblyInfoInputs.cache
+C:\Users\newforce\workspace\cohort-four\server-side\library-demo\obj\Debug\net5.0\library-demo.AssemblyInfo.cs
+C:\Users\newforce\workspace\cohort-four\server-side\library-demo\obj\Debug\net5.0\library-demo.csproj.CoreCompileInputs.cache
+C:\Users\newforce\workspace\cohort-four\server-side\library-demo\obj\Debug\net5.0\library-demo.dll
+C:\Users\newforce\workspace\cohort-four\server-side\library-demo\obj\Debug\net5.0\ref\library-demo.dll
+C:\Users\newforce\workspace\cohort-four\server-side\library-demo\obj\Debug\net5.0\library-demo.pdb
+C:\Users\newforce\workspace\cohort-four\server-side\library-demo\obj\Debug\net5.0\library-demo.genruntimeconfig.cache
